@@ -131,3 +131,5 @@
 // const friuts= [`apple`, `banana`,`cherry`]
 // const itFriuts=fr.find(fr=>fr`banana`);
 // console.log(itFriuts);
+
+wrtyui
